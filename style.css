@@ -1,0 +1,97 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(56, 55, 55);
+}
+*{
+    font-family: "Tiny5", serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+.btn-again{
+    font-size: 20px;
+    margin-left: 10px;
+    border-radius: 8px;
+    border: transparent;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+.between{
+    color: white;
+    font-size: 10px;
+    margin-left: 1390px;
+    font-size: 25px;
+}
+.header{
+
+    margin-top: 15px;
+}
+
+.header-container{
+border-bottom: solid white 5px;
+    height: 300px;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-size: 75px;
+}
+.result-logo{
+    color: rgb(18, 17, 17);
+    font-size: 60px;
+    background-color: white;
+    padding: 10px;
+    width: 5%;
+    text-align: center;
+    position: relative;
+  left: 800px;
+  top: 15px;
+  
+
+}
+
+main {
+    display: flex;
+  justify-content: space-around;
+ 
+    margin-top: 100px;
+}
+
+input {
+    display: block;
+    width: 50%;
+    padding: 20px 3px;
+     margin: 10px auto;
+     background-color: rgb(56, 55, 55);
+     border: solid white;
+     color: white;
+     font-size: 30px;
+     text-align: center;
+
+}
+
+.input-container{
+
+    text-align: center;
+}
+
+.input-container button {
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: transparent;
+}
+
+/* .message .score .score-result .hightscore .hightscore-result {
+
+} */
+
+.info-container{
+    font-size: 30px;
+    color: white;
+}
